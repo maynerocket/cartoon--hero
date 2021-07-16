@@ -1,0 +1,10 @@
+<h1 style="font-size: 30px;color: red;"> Heading 1- 1 </h1>
+<h1 style="font-size:30px;color:blue;">    Heading 1-2</h1>
+<h1 Style='font-size:30px;color:salmon;'>     Heading1-3</h1> 
+<h2 style="font-size:30px;color:blue;">Heading2-1</h2>
+<h2 Style="font-size:20px; color: yellow">Heading2-2</h2>
+<h2 style="font-size:30px;  color: hotpink;"> Heading2-3</h2>
+
+background{
+	
+}
