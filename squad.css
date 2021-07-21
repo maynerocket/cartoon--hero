@@ -1,1 +1,18 @@
-body{background-color: #6a737d;}
+body{background-color: #6a737d;
+margin: 0;
+font-style: italic;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+}
+header{background-color:red ;
+text-align: center;
+}
+h1,h2{font-family: press start 2P;
+}
+header{color: whitesmoke;}
+header img{border border-radius: 50px;
+width: 500;
+border20px solid #483a94;}
+main{text-align: center;}
+footer{background-color: #d14635;}
